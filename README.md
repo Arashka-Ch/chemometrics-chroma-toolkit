@@ -2,7 +2,7 @@
 Python dashboard for automated HPLC baseline correction, peak deconvolution, and ICH Q2 analytical method validation.
 # 🔬 Enterprise Chemometrics & Analytical Validation Suite
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://chemometrics-chroma-toolkit.streamlit.app/)
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
 
 An enterprise-grade, GMP-adjacent computational toolkit engineered for pharmaceutical and cosmeceutical R&D laboratories. This application automates the processing of complex Diode Array Detector (DAD) multi-wavelength data, mathematically resolves co-eluting impurities, and dynamically calculates critical validation parameters compliant with **ICH Q2** and **Pharmacopeial (USP/EP)** guidelines.
@@ -20,7 +20,7 @@ This repository is optimized for deployment in isolated computational environmen
 
 **1. Clone the Repository**
 ```bash
-git clone [https://github.com/YOUR_USERNAME/chemometrics-chroma-toolkit.git](https://github.com/YOUR_USERNAME/chemometrics-chroma-toolkit.git)
+git clone https://github.com/Arashka-Ch/chemometrics-chroma-toolkit.git
 cd chemometrics-chroma-toolkit
 ```
 
