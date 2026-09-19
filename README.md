@@ -1,5 +1,3 @@
-# chemometrics-chroma-toolkit
-Python dashboard for automated HPLC baseline correction, peak deconvolution, and ICH Q2 analytical method validation.
 # 🔬 Enterprise Chemometrics & Analytical Validation Suite
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://chemometrics-chroma-toolkit.streamlit.app/)
